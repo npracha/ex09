@@ -15,4 +15,7 @@ layout: default
 
 ![alt text](image.png)
 
+![alt text](image-1.png)
+<img src="image-1.png" alt="Image of dog. "  width="200"/>
+
 This is basic paragraph text.
