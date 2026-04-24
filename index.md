@@ -10,4 +10,6 @@ layout: default
 
 ## This is a small header
 
+![alt text](image.png)
+
 This is basic paragraph text.
